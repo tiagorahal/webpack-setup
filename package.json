@@ -1,0 +1,28 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "A basic webpack setup",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagorahal/webpack-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagorahal/webpack-setup/issues"
+  },
+  "homepage": "https://github.com/tiagorahal/webpack-setup#readme",
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
